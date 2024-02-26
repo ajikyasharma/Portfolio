@@ -28,7 +28,7 @@ function Project() {
   return (
     <div
       name="projects"
-      className="bg-gradient-to-b from-black to-gray-800 w-full f-full text-white pb-8 "
+      className="bg-gradient-to-b from-black to-gray-800 w-full h-full md:h-screen text-white pb-8 "
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">

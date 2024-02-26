@@ -12,7 +12,7 @@ function About() {
             About
           </p>
         </div>
-        <p className="text-xl mt-20 ">
+        <p className="text-xl md:mt-20 mt-10 ">
           Hello! I'm Ajikya Sharma, a Computer Science student with a passion
           for crafting innovative digital solutions. I specialize in Full Stack
           Development, where I blend creativity with technical expertise to
